@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8F4F4776-269F-46F9-8C37-C07F403A6D03</string>
+	<key>IDESourceControlProjectName</key>
+	<string>WordNote</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>49F0D1BC10282C1F0125C391730057BB41FA6759</key>
+		<string>https://git.oschina.net/dev.yang/WordNote.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>WordNote/WordNote.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>49F0D1BC10282C1F0125C391730057BB41FA6759</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://git.oschina.net/dev.yang/WordNote.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>49F0D1BC10282C1F0125C391730057BB41FA6759</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>49F0D1BC10282C1F0125C391730057BB41FA6759</string>
+			<key>IDESourceControlWCCName</key>
+			<string>WordNoteGit</string>
+		</dict>
+	</array>
+</dict>
+</plist>
